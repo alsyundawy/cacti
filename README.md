@@ -411,6 +411,10 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
         <td align="center" valign="top" width="14.28%"><a href="mailto:nb1dev@free.fr"><img src="https://www.gravatar.com/avatar/5c1bd0c348440ee9bce2040407b1ad0b?d=identicon&s=100" width="100px;" alt="Nicolas BUTIN"/><br /><sub><b>Nicolas BUTIN</b></sub></a><br /><span title="Code">💻</span><span title="Translation">🌍</span></td>
         <td align="center" valign="top" width="14.28%"><a href="https://github.com/olafhering"><img src="https://avatars.githubusercontent.com/u/942324?v=4" width="100px;" alt="olafhering"/><br /><sub><b>olafhering</b></sub></a><br /><span title="Code">💻</span></td>
       </tr>
+      <tr>
+        <td align="center" valign="top" width="14.28%"><a href="https://github.com/Mojo-OG"><img src="https://avatars.githubusercontent.com/u/57604549?v=4" width="100px;" alt="Mojo-OG"/><br /><sub><b>Mojo-OG</b></sub></a><br /><span title="Code">💻</span></td>
+        <td align="center" valign="top" width="14.28%"><a href="https://github.com/abdulm5"><img src="https://avatars.githubusercontent.com/u/154353563?v=4" width="100px;" alt="abdulm5"/><br /><sub><b>abdulm5</b></sub></a><br /><span title="Code">💻</span></td>
+      </tr>
   </tbody>
 </table>
 <!-- markdownlint-restore -->
